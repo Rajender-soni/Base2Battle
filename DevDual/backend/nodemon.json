@@ -1,0 +1,12 @@
+{
+    "watch": [
+        "."
+    ],
+    "ext": "js,json,env",
+    "ignore": [
+        "node_modules",
+        "scripts"
+    ],
+    "exec": "node server.js",
+    "legacyWatch": true
+}
